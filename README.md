@@ -1,2 +1,2 @@
 # repo1
-hola como te val todo
+hola como te va todo
